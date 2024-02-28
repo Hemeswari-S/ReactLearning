@@ -5,6 +5,7 @@ export default function Home() {
     <div>Home
       khiyfyfjh
       <button>chgdfhj</button>
+      kjgukglikglf
     </div>
     
   )
